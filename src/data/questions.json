@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "What is the output of typeof null in JavaScript?",
+    "options": ["null", "object", "undefined", "boolean"],
+    "answer": "object",
+    "category": "JavaScript",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "question": "Which keyword is used to declare a block-scoped variable that can be reassigned?",
+    "options": ["var", "let", "const", "static"],
+    "answer": "let",
+    "category": "JavaScript",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "question": "Which method creates a new array by transforming every element of an existing array?",
+    "options": ["filter()", "reduce()", "map()", "forEach()"],
+    "answer": "map()",
+    "category": "JavaScript",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "question": "Which method returns a new array containing only elements that satisfy a condition?",
+    "options": ["map()", "filter()", "find()", "some()"],
+    "answer": "filter()",
+    "category": "JavaScript",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "question": "What does the === operator check?",
+    "options": [
+      "Only value",
+      "Only type",
+      "Value and type",
+      "Reference only"
+    ],
+    "answer": "Value and type",
+    "category": "JavaScript",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "question": "What is a closure in JavaScript?",
+    "options": [
+      "A function that has access to its outer scope",
+      "A function without parameters",
+      "A function that returns an object",
+      "A function that runs only once"
+    ],
+    "answer": "A function that has access to its outer scope",
+    "category": "JavaScript",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "question": "Which React Hook is commonly used to manage component state?",
+    "options": ["useEffect", "useState", "useRef", "useMemo"],
+    "answer": "useState",
+    "category": "React",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "question": "Which React Hook is commonly used for side effects?",
+    "options": ["useState", "useEffect", "useContext", "useReducer"],
+    "answer": "useEffect",
+    "category": "React",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 9,
+    "question": "Why is the key prop used when rendering lists in React?",
+    "options": [
+      "To style list items",
+      "To uniquely identify elements",
+      "To store component state",
+      "To call an API"
+    ],
+    "answer": "To uniquely identify elements",
+    "category": "React",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 10,
+    "question": "What is the purpose of props in React?",
+    "options": [
+      "To pass data from parent to child",
+      "To store global data",
+      "To make API requests",
+      "To replace state"
+    ],
+    "answer": "To pass data from parent to child",
+    "category": "React",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "question": "What happens when a React component's state changes?",
+    "options": [
+      "The page always reloads",
+      "The component may re-render",
+      "The browser closes",
+      "The component is deleted"
+    ],
+    "answer": "The component may re-render",
+    "category": "React",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "question": "Which HTTP method is commonly used to create a new resource?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "POST",
+    "category": "API",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "question": "Which HTTP method is commonly used to remove a resource?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "DELETE",
+    "category": "API",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "question": "What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Online Network",
+      "Java Object Network"
+    ],
+    "answer": "JavaScript Object Notation",
+    "category": "Web",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "question": "Which command creates a new Git repository?",
+    "options": ["git start", "git init", "git create", "git new"],
+    "answer": "git init",
+    "category": "Git",
+    "difficulty": "Easy"
+  }
+]
